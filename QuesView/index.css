@@ -1,0 +1,15 @@
+.property-main-body {
+  padding: 20px;
+  overflow-y: auto;
+  height: 100%;
+  width : 100%;
+  margin-top: 10px;
+}
+
+.property-card {
+  margin-top: 10px;
+  padding: 10px;
+}
+.tag-pill{
+  margin-right: 5px;
+}

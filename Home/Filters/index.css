@@ -1,0 +1,10 @@
+
+.filter-bar {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  background-color: rgba(211,211,211,0.2);
+  background: 5px solid  rgba(211,211,211,0.7);
+  border-radius: 10px;
+  padding: 10px;
+}
